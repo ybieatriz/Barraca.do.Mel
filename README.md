@@ -47,9 +47,7 @@ Os áudios foram todos gerados por IA usando o site [elevenlabs.io](http://eleve
 
 ---
 
-### 📌 Conclusão
-
-O jogo reforça a importância de fortalecer a relação entre quem produz e quem consome, mostrando que todos fazemos parte dessa grande conexão entre campo e cidade.
+### 📌 Nota Pessoal
 
 Espero que com este projeto, eu possa destacar a importância do trabalho no campo, especialmente o papel das mulheres na agricultura familiar, com a personagem Maria simbolizando coragem, criatividade e cuidado – características presentes em muitas agricultoras reais.
 

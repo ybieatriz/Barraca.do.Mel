@@ -3,7 +3,8 @@
 ### 🔗 Links
 
 Projeto no p5.js: https://editor.p5js.org/ybieatriz/sketches/IbeAy8A20
-Do jogo funcionando: [https://ybieatriz.github.io/--/](https://ybieatriz.github.io/)
+
+Do jogo funcionando: https://ybieatriz.github.io/Barraca.do.Mel/
 
 ---
 
